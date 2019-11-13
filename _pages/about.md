@@ -12,10 +12,10 @@ redirect_from:
   <img src="/images/profile.png?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
-* I am masters student in the Computer Science Department at the University of Massachusetts Amherst.
+* I am a research engineer in the IESL Lab working under the guidance of Professor Andrew McCallum.
 
-* My area of interest lie broadly in Artificial Intelligence. I wish to work on problems related to constraint-based reasoning, optimization, planning under uncertainty, machine learning.
+* I completed my masters in Computer Science at the University of Massachusetts Amherst in Spring 2019.
 
-* I am also interested in application of Machine Learning, Deep Learning across domain ranging from Computational Sustainability, improving systems performance, smart grids, etc. 
+* I am broadly interested in unsupervised representating learning useful across a wide-suite of application in NLP, vision etc. I am also interested in transfer learning, meta learning, continual learning.
 
-* Prior to my masters, I worked for two years as a Platform Engineer at Media.net working on building recommendation engine for advertisements.
+* Prior to my masters, I worked for two years as a Software Engineer at Media.net working on building recommendation engine for advertisements.

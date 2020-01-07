@@ -9,6 +9,8 @@ author_profile: true
  <b>Rishikesh Jha</b>, Trapit Bansal, Andrew McCallum.
 
 <b>[Cache Miss Rate Predictability via Neural Networks](/publications/NeurIPS18-systems)</b><br>
- <b>Rishikesh Jha</b>, Saket Tiwari, Arjun Kuravally, Eliot Moss.  <i>Workshop on ML for Systems at NeurIPS 2018</i> <b>NeurIPS 2018</b>.
+ <b>Rishikesh Jha</b>, Saket Tiwari, Arjun Kuravally, Eliot Moss.  <i>Workshop on ML for Systems at NeurIPS 2018</i> <b>NeurIPS 2018</b><br>
 
 
+<b>[Emission-aware Energy Storage Scheduling for a Greener Grid](/publications/energy)</b><br>
+ <b>Rishikesh Jha</b>StephenLee, Srinivasan Iyengar, Mohammad Hajiesmali, Prashant Shenoy, David Irwin<i>ICCPS 2020</i>

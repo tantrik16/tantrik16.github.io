@@ -1,5 +1,5 @@
 ---
-title: "
+title: "Burning Glass Technologies: Skill Extraction and Building a Skill Knowledge Graph
 collection: talks
 type: "Poster Presentation"
 venue: "University of Massachusetts"
@@ -7,6 +7,6 @@ date: 2018-09-15
 location: "MA"
 ---
 
-Poster Presentation on workforce skill extraction and knowledge graph creation. <br> <a href ="/files/skill-extraction.pdf">[Poster]</a>
+Poster Presentation on workforce skill extraction and knowledge graph creation working in collaboration with industry partners Burning Glass Technologies. <br> <a href ="/files/skill-extraction.pdf">[Poster]</a>
 
 

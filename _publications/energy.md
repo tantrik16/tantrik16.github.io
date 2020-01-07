@@ -1,10 +1,10 @@
 ---
 title: "Emission-aware Energy Storage Scheduling for a Greener Grid"
 collection: publications
-permalink: /publications/energy-scheduling
+permalink: /publications/energy
 date: 2020-12-08
 submit: 'ICCPS'
-citation: <b>Rishikesh Jha</b> StephenLee, Srinivasan Iyengar, Mohammad Hajiesmali, Prashant Shenoy, David Irwin
+citation: <b>Rishikesh Jha</b> Stephen Lee, Srinivasan Iyengar, Mohammad Hajiesmali, Prashant Shenoy, David Irwin
 ---
 [[PDF]](/files/ICCPS2020_paper_35.pdf)
 ## Abstract

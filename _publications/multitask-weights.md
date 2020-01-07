@@ -1,7 +1,7 @@
 ---
 title: "Meta-Learned task weights for improved multitask learning (Ongoing Work)"
 collection: publications
-permalink: /publications/multi-task
+permalink: /publications/multitask-weights
 citation: <b>Rishikesh Jha</b>
 ---
 

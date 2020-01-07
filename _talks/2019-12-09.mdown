@@ -2,7 +2,6 @@
 title: "Cache Miss Rate Predictability via Neural Networks"
 collection: presentation
 type: "Poster"
-permalink: /files/poster.pdf
 venue: "NIPS 2018"
 date: 2018-12-09
 location: "Montreal"

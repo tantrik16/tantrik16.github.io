@@ -14,3 +14,6 @@ author_profile: true
 
 <b>[Emission-aware Energy Storage Scheduling for a Greener Grid](/publications/energy)</b><br>
  <b>Rishikesh Jha</b> StephenLee, Srinivasan Iyengar, Mohammad Hajiesmali, Prashant Shenoy, David Irwin <i>Submitted to </i><b>ICCPS 2020</b>
+
+<b>[Meta-Learned task weights for improved multitask learning](/publications/multitask-weights)</b><br>
+ <b>Rishikesh Jha</b> <i>  Ongoing Work </i>
